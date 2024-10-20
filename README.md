@@ -2,6 +2,8 @@
 
 **Windows Prefetch File Analysis Project**
 
+![image](https://github.com/user-attachments/assets/a860292b-fe81-4e0d-8dee-683fdcd84685)
+
 *Platforms and Technologies Used:* Windows, FTK Imager, WinPrefetchView, Autopsy, Excel  
 *Languages Used:* Python, PowerShell
 
